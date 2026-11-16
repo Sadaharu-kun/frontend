@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <section id="center">
-        <header><h1>New change</h1></header>
+        <header><h1>Continous Deployment fungerar</h1></header>
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
